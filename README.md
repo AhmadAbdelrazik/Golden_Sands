@@ -5,15 +5,15 @@ Golden Sands is a cutting-edge project designed to revolutionize plant selection
 
 ## Features
 
-### 1. Soil Moisture Sensors: Golden Sands utilizes advanced soil moisture sensors to accurately measure the moisture content in the soil. This data is crucial in determining soil dryness levels, ensuring precise plant recommendations.
+#### 1. Soil Moisture Sensors: Golden Sands utilizes advanced soil moisture sensors to accurately measure the moisture content in the soil. This data is crucial in determining soil dryness levels, ensuring precise plant recommendations.
 
-### 2. Weather Monitoring Devices: Real-time weather data, including temperature, humidity, and precipitation, is collected through weather monitoring devices. This information plays a vital role in assessing the environmental conditions required for different plant species.
+#### 2. Weather Monitoring Devices: Real-time weather data, including temperature, humidity, and precipitation, is collected through weather monitoring devices. This information plays a vital role in assessing the environmental conditions required for different plant species.
 
-### 3. Intelligent Recommendation Algorithm: Golden Sands employs a sophisticated algorithm that integrates soil dryness and weather data. By comparing these variables against predefined thresholds, the system generates personalized plant recommendations specific to each user's location.
+#### 3. Intelligent Recommendation Algorithm: Golden Sands employs a sophisticated algorithm that integrates soil dryness and weather data. By comparing these variables against predefined thresholds, the system generates personalized plant recommendations specific to each user's location.
 
-### 4. User-Friendly Interface: The project features an intuitive and user-friendly interface where users can input their location data effortlessly. This interface allows for a seamless experience while generating personalized plant recommendations.
+#### 4. User-Friendly Interface: The project features an intuitive and user-friendly interface where users can input their location data effortlessly. This interface allows for a seamless experience while generating personalized plant recommendations.
 
-### 5. Email Notifications: Golden Sands provides users with comprehensive reports via email. These reports include a list of recommended plant species tailored to the user's location and detailed instructions on how to care for and cultivate each plant effectively.
+#### 5. Email Notifications: Golden Sands provides users with comprehensive reports via email. These reports include a list of recommended plant species tailored to the user's location and detailed instructions on how to care for and cultivate each plant effectively.
 
 ## Benefits
 
